@@ -121,7 +121,10 @@ dotnet run
 
 
 ## Navigate to:
-https://localhost:XXXX/swagger
+https://localhost:5001/swagger
+Or:
+With `dotnet run`, check your console output.  
+
 
 ## Project Structure
 UserManagementAPI/
